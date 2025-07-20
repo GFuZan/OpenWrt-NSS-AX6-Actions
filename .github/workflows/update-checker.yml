@@ -14,7 +14,7 @@ name: Update Checker
 
 env:
   REPO_URL: https://github.com/qosmio/openwrt-ipq.git
-  REPO_BRANCH: qualcommax-6.x-nss-wifi-6.11
+  REPO_BRANCH: 24.10-nss
 
 on:
   workflow_dispatch:
